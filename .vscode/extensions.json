@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "vue.volar",
+    "codecoaching.quasar-docs",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.npm-intellisense",
+    "hossaini.quasar-intellisense"
+  ],
+  "unwantedRecommendations": [
+    "octref.vetur",
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
